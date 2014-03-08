@@ -1,4 +1,0 @@
-= GlobalSettings
-by Sergio Romano
-
-This is a simple gem to solve S&D exercise and uses MIT-LICENSE.
